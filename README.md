@@ -1,2 +1,1 @@
-# YOLOv7-WEBUI
-YOLOv7のWEBUI
+
